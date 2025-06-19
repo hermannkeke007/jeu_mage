@@ -21,7 +21,7 @@ python jeu_mage.py
 
 ### Installation
 
-1. Clone le dépôt :
+ Clone le dépôt :
 
 ```bash
 git clone https://github.com/hermannkeke007/jeu_mage.git
