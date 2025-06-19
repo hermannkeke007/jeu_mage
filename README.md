@@ -1,4 +1,3 @@
-﻿# labyrinte
 # 🏰 Labyrinthe Magique
 
 Bienvenue dans **Labyrinthe Magique**, un jeu d'aventure textuel où tu incarnes un apprenti mage piégé dans un labyrinthe mystique rempli de pièges, de trésors et d'énigmes.
@@ -8,13 +7,13 @@ Bienvenue dans **Labyrinthe Magique**, un jeu d'aventure textuel où tu incarnes
 - 💀 Salles piégées : perte d'énergie aléatoire
 - 🧩 Énigmes magiques : gagne de l'énergie en répondant correctement
 - 💎 Trésors : potions, amulettes, grimoires
-- ⚙️ Sauvegarde et chargement de partie
+- 🛡️ Sauvegarde et chargement de partie
 - 🔄 Choix de la difficulté : facile, normal, difficile
 - 📊 Système d'inventaire et historique des déplacements
 - 🏆 Victoire si tu traverses 10 salles sans mourir
 
 ## 🚀 Lancement du jeu
-python labyrinte.py
+python jeu_mage.py
 
 ### Prérequis
 
